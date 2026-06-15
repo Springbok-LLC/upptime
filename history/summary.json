@@ -94,17 +94,19 @@
     "url": "https://stage.nlm-ckn.org/arango_api/collections/",
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8576,
-    "timeDay": 2751,
-    "timeWeek": 8576,
-    "timeMonth": 8576,
-    "timeYear": 8576,
-    "dailyMinutesDown": {}
+    "time": 13982,
+    "timeDay": 11901,
+    "timeWeek": 13982,
+    "timeMonth": 13982,
+    "timeYear": 13982,
+    "dailyMinutesDown": {
+      "2026-06-15": 0
+    }
   }
 ]
